@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  color: #1e293b;
+  background-color: #ffffff;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.para {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 22px;
+}
